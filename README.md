@@ -1,19 +1,23 @@
 # Software-Testing
+
 Project Description: Automated Testing of Playtech Website
 
-In this project, I developed automated tests using Java, JUnit 5, and Selenide to verify the functionality and navigation of the Playtech website. The goal was to ensure a smooth user experience and validate the correctness of different sections and pages on the website.
+In this project, I developed automated tests using **Java, JUnit 5, and Selenide** to verify the functionality and navigation of the Playtech website. The goal was to ensure a smooth user experience and validate the correctness of different sections and pages on the website.
 
 The project involved the following test scenarios:
 
-Career Page Verification:
+**Career Page Verification**:
+
 Navigated to the Careers page of the Playtech website.
 Asserted that the page title displayed "Careers at Playtech."
 
-Internship Page Verification:
+**Internship Page Verification:**
+
 Navigated to the Internship page of the Playtech website.
 Asserted that the page title displayed "Internship."
 
-Section Navigation Verification:
+**Section Navigation Verification:**
+
 Tested the navigation functionality of various sections on the website, including "Who we are," "Internship," "People and Culture," "Careers," "Contact Us," and "Blog."
 Each navigation step was validated by asserting that the target page loaded successfully.
 
